@@ -16,7 +16,7 @@ from urllib.parse import quote, urlsplit
 
 import requests
 
-VERSION = "0.6.0"
+VERSION = "0.6.0" # It will be updating
 RED = "\033[91m"
 GREEN = "\033[92m"
 YELLOW = "\033[93m"
