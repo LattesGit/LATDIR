@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+reports/*.json
+reports/*.tmp
+!reports/.gitkeep
+.pytest_cache/
+.coverage
